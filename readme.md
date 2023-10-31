@@ -1,4 +1,4 @@
-# Java - Programação Orientada a Objeto
+# Java | Programação Orientada a Objeto
 
 ## Práticas e testes
 
